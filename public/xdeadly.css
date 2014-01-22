@@ -1,0 +1,78 @@
+body {
+	background-color: #fff;
+	color: #000;
+}
+
+a {
+	color: #336666;
+}
+
+a:visited {
+	color: #666;
+}
+
+a:active {
+	color: #996666;
+}
+
+table {
+	background-color: #fff;
+	border: 0px;
+	border-spacing: 0px;
+	border-collapse: seperate;
+}
+
+
+#header {
+	width: 100%;
+}
+
+#navdiv {
+	background-color: #ccc;
+	width: 100%;
+}
+
+#navbar {
+	background-color: #ccc;
+	text-align: start;
+	border-collapse: collapse;
+	table-layout: auto;
+}
+
+#navbar td {
+	background color: #ccc;
+	white-space: nowrap;
+	padding: 3px;
+}
+
+#navbar td a {
+	color: #336666;
+}
+
+.widget {
+	width: 210px;
+	border: 3px solid #999;
+	border-spacing: 0px;
+	background-color: #999;
+	margin-bottom: 24px;
+	font-size: 0.8em;
+}
+
+.widget h2 {
+	color: #336666;
+	font-size: 1.4em;
+	background-color: #999;
+	padding: 5px;
+	margin: 0px;
+}
+
+.widget p {
+	background-color: #ccc;
+	padding: 5px;
+	margin: 0px;
+}
+
+.widget ul {
+	background-color: #ccc;
+	margin: 0px;
+}
